@@ -23,7 +23,7 @@ A fast, lightweight image viewer for Windows built with Direct2D.
 
 `BMP` `JPG` `JPEG` `PNG` `TIF` `TIFF` `WEBP` `GIF`
 
-> GIF: first frame only (no animation)
+> GIF: first frame only (no animation) — full animation support planned
 
 ## Requirements
 
