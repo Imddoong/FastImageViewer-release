@@ -21,7 +21,9 @@ A fast, lightweight image viewer for Windows built with Direct2D.
 
 ## Supported Formats
 
-`BMP` `JPG` `JPEG` `PNG` `TIF` `TIFF`
+`BMP` `JPG` `JPEG` `PNG` `TIF` `TIFF` `WEBP` `GIF`
+
+> GIF: first frame only (no animation)
 
 ## Requirements
 
